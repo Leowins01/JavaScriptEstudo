@@ -1,0 +1,44 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.main {
+    width: 100%;
+    background-color: bisque;
+    height: 100vh;
+}
+
+#jailson{
+    align-items: center;
+    text-align: center;
+
+}
+
+.texto p{
+    top: 100px;
+    position: relative;
+}
+
+button {
+    margin-left: 800px;
+    position: relative;
+    top: 120px;
+    background-color: blueviolet;
+    width: 100px;
+    height: 30px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+button:hover{
+    margin-left: 800px;
+    position: relative;
+    top: 120px;
+    background-color: rgb(169, 151, 185);
+    width: 100px;
+    height: 30px;
+    border-radius: 30px;
+    transform: scaleX(50px);
+    cursor: pointer;
+}
